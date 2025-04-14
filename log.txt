@@ -1,0 +1,11 @@
+# Voronoi Project Progress Log
+
+## Day 1: Understanding Voronoi Tessellation
+- **Completed:**
+  - Learned the basics of Voronoi tessellation.
+  - Visualized a 2D Voronoi diagram using Python (`visualizing_voronoi.py`).
+  - Annotated seed points and vertices in the diagram.
+
+- **Next Steps:**
+  - Dive into the mathematics behind Voronoi tessellation.
+  - Explore the relationship between Voronoi diagrams and Delaunay triangulation.
